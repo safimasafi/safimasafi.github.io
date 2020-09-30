@@ -27,7 +27,6 @@
 
 a{
    text-decoration-line: none; 
-    
 }
 #img10 {
   position: absolute; 
@@ -51,7 +50,7 @@ a{
 #iframe1 {
     position: absolute; 
   top: 1px; 
-  left: 55%; 
+  left: 60%; 
 }
 #video_con video {
     position: absolute;
