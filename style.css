@@ -54,7 +54,7 @@ a{
 }
 #iframe1 {
     position: absolute; 
-  top: 45%; 
+  top: 41%; 
   left: 60%; 
 }
 #video_con video {
@@ -73,7 +73,23 @@ a{
 
 #img13 {
   position: absolute; 
-  top: 55%; 
+  top: 40%; 
+  left: 16%;
+    
+  min-width: 25%;
+  min-height: 1%;
+}
+#img14 {
+  position: absolute; 
+  top: 50%; 
+  left: 16%;
+    
+  min-width: 25%;
+  min-height: 1%;
+}
+#img15 {
+  position: absolute; 
+  top: 42%; 
   left: 16%;
     
   min-width: 25%;
