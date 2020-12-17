@@ -32,6 +32,14 @@
 a{
    text-decoration-line: none; 
 }
+#img8 {
+  position: absolute; 
+  top: 10; 
+  left: 5%;
+    
+  min-width: 30%;
+  min-height: 30%;
+}
 #img10 {
   position: absolute; 
   top: 10; 
